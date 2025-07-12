@@ -1,6 +1,6 @@
 ### Hi, I'm Jay 👋
 
-Computer Science student from a small South Indian village, currently pursuing a master's degree at the University of Cincinnati and exploring the core concepts of Machine Learning and NLP.
+Computer Science student from a small South Indian village, currently pursuing master's degree at the University of Cincinnati and exploring the core concepts of Machine Learning and NLP.
 
 - 🔭 I’m currently exploring on LLM's ( Llama )
 - 🌱 I’m currently learning Machine Learning & Natural Language Processing
