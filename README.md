@@ -5,7 +5,8 @@ I work on **Natural Language Processing, Large Language Models, and AI Systems**
 My research interests include:
 
 LLM Safety & Red Teaming, Multimodal Agents ( Robotics, Web, Software dev ), Efficient Inference Methods and Computational Semantics.
-- 💥 I am looking to collaborate to build cool stuff
+
+  💥 I am looking to collaborate to build cool stuff
 
 # Current Research
 
