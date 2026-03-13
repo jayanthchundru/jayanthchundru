@@ -24,8 +24,8 @@ vLLM • Efficient LLM Inference • GPU Acceleration
 
 ### 🤖 LLM & NLP Systems
 
-• Prompt Engineering • LLM Fine-Tuning • Vector Steering • Retrieval Augmented Generation (RAG) • Vector Databases • Semantic Search  
-• Embedding Pipelines • Context-Aware LLM Applications
+• Prompt Engineering • LLM Fine-Tuning • Vector Steering • Retrieval Augmented Generation (RAG) • Vector Databases
+• Semantic Search
 
 ### Data Engineering & ML Pipelines
 SQL • Azure SQL • AWS  • Data Pipelines • Feature Engineering • Data Processing • Data Ingestion • Dataset Preparation 
