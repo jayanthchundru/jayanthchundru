@@ -16,7 +16,7 @@ LLM Safety & Red Teaming, Multimodal Agents ( Robotics, Web, Software dev ), Eff
 
 ### Languages & Tools
 
-![Skills](https://skillicons.dev/icons?i=python,cpp,js,pytorch,sklearn,git,docker,linux,flask,azure,aws,react,nodejs)
+![Skills](https://skillicons.dev/icons?i=python,cpp,pytorch,fastapi,sklearn,git,docker,linux,flask,azure,aws,js,react,nodejs)
 
 ### AI / Machine Learning
 
